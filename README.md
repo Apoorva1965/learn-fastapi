@@ -5,7 +5,7 @@ Daily progress while learning FastAPI.
 ## Progress
 - [x] Day 1: Setup and hello world
 - [x] Day 2: Path and query parameters
-- [ ] Day 3: Request bodies with Pydantic
+- [x] Day 3: Request bodies with Pydantic
 - [ ] Day 4: Response models and status codes
 - [ ] Day 5: Full CRUD in memory
 - [ ] Day 6: Project structure with routers

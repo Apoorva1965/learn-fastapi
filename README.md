@@ -1,4 +1,4 @@
-# Learn FastAPI in 14 Days
+# Learn FastAPI 
 
 Daily progress while learning FastAPI.
 
